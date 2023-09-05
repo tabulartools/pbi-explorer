@@ -20,7 +20,7 @@ body:
     id: proposed-solution
     attributes:
       label: Proposed solution
-      description: Share how this will benefit Bravo for Power BI and its users.
+      description: Share how this will benefit PBI Explorer and its users.
     validations:
       required: true
   - type: textarea
