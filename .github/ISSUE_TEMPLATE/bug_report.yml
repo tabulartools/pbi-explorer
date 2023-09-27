@@ -25,6 +25,14 @@ body:
         Enter the specific Power BI engine and version used (e.g. `Power BI Desktop version March 2022`, `Azure Analysis Services`, `SSAS 2019`)
     validations:
       required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows
+      description:
+        Enter the specific version of Windows used (e.g. `Windows 11 Pro 22H2`, `22621.2283`)
+    validations:
+      required: true
   - type: textarea
     id: steps-to-reproduce
     attributes:
