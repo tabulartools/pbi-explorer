@@ -18,6 +18,14 @@ body:
     validations:
       required: true
   - type: input
+    id: pbiExplorer
+    attributes:
+      label: PBI Explorer
+      description:
+        Enter the specific version of PBI Explorer used (e.g. `0.3.1`, `0.2.2`, `BETA1`, `BETA2`)
+    validations:
+      required: true
+  - type: input
     id: powerbi
     attributes:
       label: Power BI
