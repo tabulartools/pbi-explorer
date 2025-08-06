@@ -1,6 +1,10 @@
 --------------------------------------------------------------------------------------
--- We have stopped active development on the PBI Explorer, but are working on releasing the C# Object Model for Power BI Reports as open source to support other projects.
--- Sorry for any inconvenience
+We have stopped active development on PBI Explorer, \
+but are working on releasing the C# Object Model for \
+Power BI Reports as open source to support other projects.
+
+Sorry for any inconvenience
+
 --------------------------------------------------------------------------------------
 
 # PBI Explorer
